@@ -19,16 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wingify/vwo-snowplow-browser-tracker-plugin.git"
+    "url": "git+ssh://git@github.com:testasoft/testa-snowplow-plugin.git"
   },
   "keywords": [
     "Testa",
     "Snowplow"
   ],
-  "author": "mbagdonas6@gmail.com",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/wingify/vwo-snowplow-browser-tracker-plugin/issues"
-  },
-  "homepage": "https://github.com/wingify/vwo-snowplow-browser-tracker-plugin#readme"
+  "author": "mbagdonas6@gmail.com"
 }
