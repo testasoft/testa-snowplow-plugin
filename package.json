@@ -1,0 +1,34 @@
+{
+  "name": "testa-snowplow-plugin",
+  "version": "1.0.0",
+  "description": "Testa Snowplow-plugin",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@snowplow/browser-tracker-core": "^3.7.0",
+    "@snowplow/tracker-core": "^3.7.0",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "~4.6.2"
+  },
+  "peerDependencies": {
+    "@snowplow/browser-tracker": "~3.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wingify/vwo-snowplow-browser-tracker-plugin.git"
+  },
+  "keywords": [
+    "Testa",
+    "Snowplow"
+  ],
+  "author": "mbagdonas6@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wingify/vwo-snowplow-browser-tracker-plugin/issues"
+  },
+  "homepage": "https://github.com/wingify/vwo-snowplow-browser-tracker-plugin#readme"
+}
